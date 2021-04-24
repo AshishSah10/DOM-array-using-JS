@@ -1,4 +1,4 @@
-import "./styles.css";
+//import "./styles.css";
 
 const api = "https://randomuser.me/api/";
 const btnElem = document.getElementById("add-user-btn");
